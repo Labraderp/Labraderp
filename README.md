@@ -10,6 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jose-delgado-1b30a8b5/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linked In" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/labraderp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="Twitch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-delgado-1b30a8b5/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linked In" height="30" width="30" /></a>
+<a href="https://www.twitch.tv/labraderp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="Twitch" height="30" width="30" /></a>
 </p>
