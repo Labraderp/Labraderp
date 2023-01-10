@@ -8,3 +8,5 @@
 - 📫 How to reach me: jdelgado1pb7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My remote set-up looks professional because I stream for fun!
+
+[![MasterHead](https://cdn.greenfieldpuppies.com/wp-content/uploads/2016/07/Yellow-Labrador-Retriever-e1532451721984.jpg)](https://github.com/Labraderp)
