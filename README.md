@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Final Fantasy XIV raids.
 - 🤔 I’m looking for help with Discord/Twitch script integration.
 - 💬 Ask me about whatever you want!
-- 📫 How to reach me: thegoodestboye@labraderp.dog
+- 📫 How to reach me: jdelgado1pb7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My remote set-up looks professional because I stream for fun!
