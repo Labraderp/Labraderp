@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🔭 I’m currently working on a Discord and Twitch bot (ditching Python, JavaScript is my new love)
 - 🌱 I’m currently learning how to better understand APIs and online service integration!
