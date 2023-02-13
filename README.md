@@ -1,3 +1,5 @@
+[![MasterHead](https://i.imgur.com/0IfowsF.png)](https://github.com/Labraderp)
+
 ### Hi there 👋 
 
 - 🔭 I’m currently working on a Discord and Twitch bot (ditching Python, JavaScript is my new love)
@@ -5,8 +7,6 @@
 - 👯 I’m looking to collaborate on Final Fantasy XIV raids.
 - 📫 How to reach me: jdelgado1pb7@gmail.com
 - ⚡ Fun fact: My remote set-up looks professional because I stream for fun!
-
-[![MasterHead](https://i.imgur.com/0IfowsF.png)](https://github.com/Labraderp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
