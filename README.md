@@ -2,11 +2,10 @@
 
 ### Hi there 👋 
 
-- 🔭 I’m currently working on a Discord and Twitch bot (ditching Python, JavaScript is my new love)
+- 🔭 I’m a full stack engineer from Chesapeake, VA. I have experience in real world product development as well as a degree to boot!
 - 🌱 I’m currently learning how to better understand APIs and online service integration!
 - 👯 I’m looking to collaborate on Final Fantasy XIV raids.
 - 📫 How to reach me: jdelgado1pb7@gmail.com
-- ⚡ Fun fact: My remote set-up looks professional because I stream for fun!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
