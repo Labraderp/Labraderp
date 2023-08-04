@@ -4,7 +4,6 @@
 
 - 🔭 I’m a full stack engineer from Chesapeake, VA. I have experience in real world product development as well as a degree to boot!
 - 🌱 I’m currently learning how to better understand APIs and online service integration!
-- 👯 I’m looking to begin employment as soon as possible as a software engineer in ANY field - Learning is key!
 - 📫 How to reach me: jdelgado1pb7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
